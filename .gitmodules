@@ -1,0 +1,3 @@
+[submodule "notes_analyzer"]
+	path = notes_analyzer
+	url = https://github.com/marleeeeeey/notes_analyzer.git
